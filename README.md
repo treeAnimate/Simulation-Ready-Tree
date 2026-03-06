@@ -28,7 +28,7 @@ git clone git@//github.com/MartiniShakenNotStirred/let-it-sway.git
 or
 ```shell
 # HTTPS
-git clone https://github.com/MartiniShakenNotStirred/let-it-sway.git
+git clone https://github.com/treeAnimate/Simulation-Ready-Tree.git
 ```
 #### Operation steps
 - <b>step1</b>  Click the TreePullReleaseDemo.exe.
