@@ -4,7 +4,7 @@ This software implements the simulation-ready tree reconstruction method describ
 
  ### Demo of tree animation
 
- https://drive.google.com/file/d/1YbqonMmZm0NDUtfRnbQ3mHjr-Noig2Fy/view?usp=sharing
+https://drive.google.com/file/d/1CTH3WE_jOJxBtgznk4j6u66Q9nbXbyCl/view?usp=drive_link
  
  <h2> Software Requirements </h2>
 
