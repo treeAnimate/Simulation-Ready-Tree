@@ -23,7 +23,7 @@ https://drive.google.com/file/d/1g6TgP8q6dE-Keutt8iVZ9S41nJGd2a13/view?usp=shari
 
 ```shell
 # SSH                                                                       
-git clone git@//github.com/MartiniShakenNotStirred/let-it-sway.git
+git clone git@github.com:treeAnimate/Simulation-Ready-Tree.git
 ```
 or
 ```shell
